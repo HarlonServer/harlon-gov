@@ -1,2 +1,2 @@
-# harlon-transit-website
-The website for HarlonTransit, the public transport operator within the city of Harlon. This site uses the NSW Design System (NSWDS), with modifications to match server branding.
+# harlon-gov
+The website for the Government of Harlon, Harlon's Federal Government. This site uses the NSW Design System (NSWDS), with modifications to match server branding.
